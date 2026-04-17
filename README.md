@@ -69,10 +69,10 @@ Features:
 
 #### Evaluation Metrics
 
-* Accuracy: 100%  
-* Precision: 100%  
-* Recall: 100%  
-* F1-score: 100%  
+* Accuracy: 83.019%  
+* Precision: 90.625%  
+* Recall: 82.857%  
+* F1-score: 86.567%  
 
 ---
 
